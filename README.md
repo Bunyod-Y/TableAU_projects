@@ -36,6 +36,6 @@ Using Filters, Parameters, and Calculations in Tableau
 If you have any questions, feedback, or collaboration ideas, feel free to connect:
 
 Email: bunyodyokubov3102@gmail.com
-
+https://public.tableau.com/app/profile/bunyod.yokubov/vizzes
 LinkedIn: www.linkedin.com/in/Bunyod-Y
 
