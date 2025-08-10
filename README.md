@@ -1,6 +1,7 @@
 📊 Tableau Projects Portfolio
 
 Welcome to my Tableau Projects Portfolio!
+
 This repository contains interactive dashboards and data visualizations I’ve created using Tableau. The projects here demonstrate my skills in data analysis, data storytelling, and visualization design.
 
 I will continue to update this repository with new Tableau projects as I complete them.
