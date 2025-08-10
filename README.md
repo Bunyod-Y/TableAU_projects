@@ -37,7 +37,7 @@ If you have any questions, feedback, or collaboration ideas, feel free to connec
 
 Email: bunyodyokubov3102@gmail.com
 
-https://public.tableau.com/app/profile/bunyod.yokubov/vizzes
+Tableau Public: https://public.tableau.com/app/profile/bunyod.yokubov/vizzes
 
 LinkedIn: www.linkedin.com/in/Bunyod-Y
 
